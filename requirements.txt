@@ -1,0 +1,7 @@
+lxml
+bs4
+feedparser
+requests
+openai
+python-dotenv
+pymysql
